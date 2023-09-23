@@ -10,7 +10,7 @@
 | 8    | eth_signTypedData          |           |
 | 9    | eth_signTypedData_v3       |        |
 | 10   | eth_signTypedData_v4       |        |
-| 11   | wallet_switchEthereumChain |  |
+| 11   | wallet_switchEthereumChain | https://eips.ethereum.org/EIPS/eip-3326 |
 | 12   | wallet_addEthereumChain    | https://eips.ethereum.org/EIPS/eip-3085 |
 | 13   | wallet_getPermissions      |       |
 | 14   | wallet_registerOnBoarding  |   |
