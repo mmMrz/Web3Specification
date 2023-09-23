@@ -14,5 +14,5 @@
 | 12   | wallet_addEthereumChain    | https://eips.ethereum.org/EIPS/eip-3085 |
 | 13   | wallet_getPermissions      |       |
 | 14   | wallet_registerOnBoarding  |   |
-| 15   | wallet_watchAsset          |           |
+| 15   | wallet_watchAsset          |     https://eips.ethereum.org/EIPS/eip-747      |
 | 16   | wallet_scanQRCode          |           |
