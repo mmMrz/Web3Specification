@@ -1,7 +1,7 @@
-|  ID  |     Events     | Reference |
-| :--: | :------------: | --------- |
-|  1   |  chainChanged  |           |
-|  2   | accountChanged |           |
-|  3   |    message     |           |
-|  4   |   disconnect   |           |
-|  5   |    connect     |           |
+|  OK  |  ID  |     Events     | Reference |
+| :--: | :--: | :------------: | --------- |
+|  OK  |  1   |  chainChanged  |           |
+|  OK  |  2   | accountChanged |           |
+|  OK  |  3   |    message     |           |
+|  OK  |  4   |   disconnect   |           |
+|  OK  |  5   |    connect     |           |
