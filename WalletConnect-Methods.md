@@ -15,4 +15,4 @@
 | 13   | 13   | wallet_getPermissions      |       |
 | 14   | 14   | wallet_registerOnBoarding  |   |
 | 15   | 15   | wallet_watchAsset          |     https://eips.ethereum.org/EIPS/eip-747      |
-| 16   | 16   | wallet_scanQRCode          |           |
+| 16   | 16   | wallet_scanQRCode          |           | 
