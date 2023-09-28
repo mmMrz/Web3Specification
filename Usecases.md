@@ -7,7 +7,7 @@
 |  ??  |  05  | Quickswap      | https://quickswap.exchange/#/            |
 |  ??  |  06  | TofuNFT        | https://tofunft.com/                     |
 |  ??  |  07  | Sandbox        | https://www.sandbox.game/en/             |
-|  ??  |  08  | Decentraland   | https://market.decentraland.org/         |
+|  ??  |  08  | Decentraland   | https://market.decentraland.org/     |
 |  ??  |  09  | Tikki          | https://app.tikki.app/login              |
 |  ??  |  10  | OKX            | https://www.okx.com/web3/marketplace/nft |
 |  ??  |  B1  | FileMarket     | https://filemarket.xyz/market/efts       |
